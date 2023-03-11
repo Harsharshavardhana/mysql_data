@@ -21,7 +21,6 @@ public class dbconnection {
 			System.out.println("Product Id " + result.getInt("ID"));
 			System.out.println("Product name " + result.getString("name"));
 			System.out.println("Product name " + result.getInt("price"));
-			//System.out.println("Product name " + result.getDouble("date_added"));
 			
 
 	}
